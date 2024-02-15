@@ -19,4 +19,4 @@ This script:
 * installs uxplay
 * installs the packages to run uxplay
 
-Tested on `raspian - bookworm 64bit Image`: screen mirroring and audio working
+Tested on `raspian - bookworm 64bit and bullseye 32bit`: screen mirroring and audio working

@@ -7,6 +7,7 @@ UxPlay installscript for debian (raspian).
 ```
 git clone https://github.com/Kraego/uxPlay-debian-install.git
 cd uxPlay-debian-install
+chmod +x uxplay_install.sh
 sudo ./uxplay_install.sh   
 ```
 
